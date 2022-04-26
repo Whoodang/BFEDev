@@ -12,9 +12,9 @@
 <section align="left">
           <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q"><strong>1. Scum | Agile Methodologies       »</strong></a>
          <br />
-         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.yd2shaqw4fm4"><strong><strong>2. GIT | Control Version System »</strong></a>
+         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.yd2shaqw4fm4"><strong><strong>2. GIT | CVS »</strong></a>
          <br />
-        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.ytiblkr0y65e"><strong>3. Javascript | Web Programming »</strong></a>
+        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.ytiblkr0y65e"><strong>3. Javascript | Interactive Web »</strong></a>
 
 
 
