@@ -13,7 +13,7 @@
     <br />
 </div>
 
-# 1. SCRUM <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q">
+# <a 1. Scum | Agile Methodologies <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q">
 # 2. GIT
 # 3. Javascript
 
