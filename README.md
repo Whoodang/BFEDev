@@ -1,9 +1,6 @@
-# Introductory Program Altimetrik
-
-<br />
 <div align="center">
 
-<h3 align="center">My Handybook 2022</h3>
+<h1 align="center"># Introductory Program Altimetrik</h1>
 
   <p align="center">
     Hi There! This is a link to my Document! :sunglasses::orange_book:
@@ -13,7 +10,7 @@
     <br />
 </div>
 
-# 1.  <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q"><strong>Scum | Agile Methodologies»</strong> </a>
+#<a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q"><strong>1.Scum | Agile Methodologies »</strong> </a>
 # 2. GIT
 # 3. Javascript
 
