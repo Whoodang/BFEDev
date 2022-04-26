@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"># Introductory Program Altimetrik</h1>
+<h1 align="center"># Introductory Program Altimetrik BFEDA 2nd | Edition </h1>
 
   <p align="center">
    :orange_book::sunglasses: Hi There! This is a link to my handybook! :sunglasses::orange_book:
