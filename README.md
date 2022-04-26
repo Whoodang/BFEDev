@@ -10,6 +10,7 @@
     <br />
 </div>
 <section align="center">
+  <div align="left">
           <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.r1yz654lu76q"><strong>1. Scum | Agile Methodologies       »</strong></a>
          <br />
          <br />
@@ -17,6 +18,7 @@
          <br />
          <br />
         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.ytiblkr0y65e"><strong>3. Javascript | Interactive Web »</strong></a>
+    </div>
 </section>
 
 
