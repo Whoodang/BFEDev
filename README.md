@@ -18,7 +18,7 @@
           <br />
         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.me0fu8fdmt9n"><strong>4. HTML | Hypertext Markup Language  »</strong></a>
            <br />
-        <a href=""><strong>5. ....... »</strong></a>
+        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.p4p4qyfc3hn2"><strong>5. CSS | Cascading Style Sheets  »</strong></a>
            <br />
         <a href=""><strong>6. ....... »</strong></a>
            <br />
