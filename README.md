@@ -5,7 +5,7 @@
   <p align="center">
    :orange_book::sunglasses: Hi There! This is a link to my handybook! :sunglasses::orange_book:
      <br />
-        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit?usp=sharing"><strong>Explore the docs »</strong></a>
+        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit?usp=sharing"><strong>Explore the INDEX »</strong></a>
      <br />
     <br />
 </div>
