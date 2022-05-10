@@ -3,7 +3,7 @@
 <h1 align="center">Introductory Program Altimetrik BFEDA 2nd | Edition </h1>
 
   <p align="center">
-   :orange_book::sunglasses: Hi There! This is a link to my handybook! :sunglasses::orange_book:
+   :orange_book::sunglasses: Hi There! This is a link to my handbook! :sunglasses::orange_book:
      <br />
         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit?usp=sharing"><strong>Explore the INDEX »</strong></a>
      <br />
@@ -20,7 +20,7 @@
            <br />
         <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.p4p4qyfc3hn2"><strong>5. CSS | Cascading Style Sheets  »</strong></a>
            <br />
-        <a href=""><strong>6. ....... »</strong></a>
+        <a href="https://docs.google.com/document/d/1CWoOnwy0pU3eZ8Iw8oUcsmz_jBdOr3Wt0XLXn9-2x8w/edit#heading=h.68ydrx4nuy0k"><strong>6. Bootstrap / Materialize | CSS Frameworks »</strong></a>
            <br />
           <a href=""><strong>7. ....... »</strong></a>
     </div>
