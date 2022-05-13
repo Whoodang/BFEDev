@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1 align="center">Introductory Program Altimetrik BFEDA 2nd | Edition </h1>
+  <h2 align="center">Become a Front End Developer</h2>
 
   <p align="center">
    :orange_book:Hi There! This is a link to my handbook!:orange_book:
