@@ -1,7 +1,5 @@
 <div align="center">
-
-
-  <h2 align="center">Become a Front End Developer Topics 2022</h2>
+  <h2 align="center">Become a Front-End Developer Topics 2022</h2>
 
   <p align="center">
    :orange_book:Hi There! This is my handbook!:orange_book:
